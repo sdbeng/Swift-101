@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftFirstBeta6
 //
-//  Created by admin 33 on 8/30/15.
+//  Created by Serg on 8/30/15.
 //  Copyright © 2015 sdbwebsolutions. All rights reserved.
 //
 
